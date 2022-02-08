@@ -3,4 +3,9 @@
         <title>Кошка</title>
         <link rel="stylesheet"href="style css">
     </head>
+    <header></header>
+        <main>
+            <h1></h1>
+        </main>
+    <footer></footer>
 </htm1>
